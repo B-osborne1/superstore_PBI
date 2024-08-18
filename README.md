@@ -6,7 +6,7 @@ This repo utilises Power BI to make a report on business progression over the co
 Question 1: What were the total sales for the company?
 - The total sales for the company over the 2013-2020 period was US $12.64mil. This is inclusive of US$1.47mil profit and made up from around 51K sales
 
-Question 2: Which market(s) generated the most sales on average?
+Question 2.1: Which market(s) generated the most sales on average?
 - The top 5 countries for average sales were as follows:
 1) Lesotho ($1118.67)
 2) Montenegro ($1001.09)
@@ -14,8 +14,11 @@ Question 2: Which market(s) generated the most sales on average?
 4) Taiwan (546.26)
 5) South Sudan (522.81)
 
+Question 2.2: Which market(s) provided the most business?
+The United States, Australia, France, Mexico and Germany provided the company over 2000 sales over the time period. This is contrasting with countries that gave the company the highest profit which also included China, India and the United Kingdom 
+
 Question 3: What were the profits by segment? Which was the most profitable?
-When comparing the three segments against profit per year, the trend shows at all times that 'consumer' shows the most profit per year, followed by 'corporate', with 'home office' being the lowest per year
+When comparing the three segments against profit per year, the trend shows at all times that 'consumer' shows the most profit and sales per year, followed by 'corporate', with 'home office' being the lowest per year. The profit and the sales as a percentage mirrored each other within 1% for each segment.
 
 Question 4: What products were the best selling products?
 In the context of profit, electronics held the highest value with the four highest products ranging from $25.2K-$11.8K
